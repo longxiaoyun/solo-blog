@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [springboot redis客户端jedis和lettuce问题笔记](https://www.longxyun.com/articles/2019/12/03/1575362067513.html)
 * [Redis消息队列和延迟队列](https://www.longxyun.com/articles/2019/12/02/1575281754844.html)
 * [Redis分布式锁笔记](https://www.longxyun.com/articles/2019/11/29/1574996146159.html)
 * [MySQL top-N问题](https://www.longxyun.com/articles/2019/11/26/1574750598876.html)
@@ -29,11 +30,11 @@
 * [redis客户端连接数太多导致新连接无法加入](https://www.longxyun.com/articles/2019/11/19/1574151556247.html)
 * [pandas函数to_html的使用](https://www.longxyun.com/articles/2019/11/19/1574151971054.html)
 * [CentOS安装使用pyenv管理Python版本](https://www.longxyun.com/articles/2019/11/19/1574152604596.html)
-* [mac安装使用rabbitmq](https://www.longxyun.com/articles/2019/11/19/1574152540880.html)
 
 ### 热门
 
 * [pyppeteer的chromium被识别出navigator.webdriver的问题](https://www.longxyun.com/articles/2019/11/19/1574152265239.html)
+* [mac安装使用rabbitmq](https://www.longxyun.com/articles/2019/11/19/1574152540880.html)
 * [点击路径获取xpath](https://www.longxyun.com/articles/2019/11/19/1574152746345.html)
 * [ jenkins发布springboot和vue项目](https://www.longxyun.com/articles/2019/11/19/1574152854851.html)
 
