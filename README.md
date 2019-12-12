@@ -34,8 +34,8 @@
 ### 热门
 
 * [pyppeteer的chromium被识别出navigator.webdriver的问题](https://www.longxyun.com/articles/2019/11/19/1574152265239.html)
-* [点击路径获取xpath](https://www.longxyun.com/articles/2019/11/19/1574152746345.html)
 * [mac安装使用rabbitmq](https://www.longxyun.com/articles/2019/11/19/1574152540880.html)
+* [点击路径获取xpath](https://www.longxyun.com/articles/2019/11/19/1574152746345.html)
 * [ jenkins发布springboot和vue项目](https://www.longxyun.com/articles/2019/11/19/1574152854851.html)
 * [pandas函数to_html的使用](https://www.longxyun.com/articles/2019/11/19/1574151971054.html)
 * [CentOS安装使用pyenv管理Python版本](https://www.longxyun.com/articles/2019/11/19/1574152604596.html)
